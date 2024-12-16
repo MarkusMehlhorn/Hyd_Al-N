@@ -1,0 +1,12 @@
+\begin{tabular}{r}
+\toprule
+0 \\
+\midrule
+0,0455 \\
+0,0540 \\
+0,0576 \\
+0,1271 \\
+0,2415 \\
+0,4455 \\
+\bottomrule
+\end{tabular}

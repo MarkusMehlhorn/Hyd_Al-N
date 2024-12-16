@@ -1,0 +1,14 @@
+\begin{tabular}{lrrr}
+\toprule
+Methoden & Hyd & Hyd2 & HydPh \\
+\midrule
+HF & 0,0000 & 0,0000 & 0,0000 \\
+MP2 & 0,0001 & 0,0000 & 0,1324 \\
+DLPNO-CCSD(T) & 0,0000 & 0,0000 & 0,0021 \\
+CCSD(T) & 0,0000 & 0,0000 & - \\
+PBE D3 & 0,1546 & 0,0000 & 235,7684 \\
+SCAN D3 & 0,0092 & 0,0000 & 8,8065 \\
+B3LYP D3 & 0,0004 & 0,0000 & 0,1968 \\
+B2T-PLYP & 0,0001 & 0,0000 & 0,0809 \\
+\bottomrule
+\end{tabular}

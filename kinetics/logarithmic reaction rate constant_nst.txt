@@ -1,0 +1,14 @@
+\begin{tabular}{lrr}
+\toprule
+Methoden & Hyd & HydPh \\
+\midrule
+HF & 613 & 564 \\
+MP2 & 457 & 414 \\
+DLPNO-CCSD(T) & 458 & 420 \\
+CCSD(T) & 456 & - \\
+PBE D3 & 326 & 311 \\
+SCAN D3 & 349 & 333 \\
+B3LYP D3 & 421 & 391 \\
+B2T-PLYP & 451 & 418 \\
+\bottomrule
+\end{tabular}
